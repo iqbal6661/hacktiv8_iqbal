@@ -1,0 +1,4 @@
+,cab_type,name,distance,surge_multiplier,short_summary
+0,Lyft,Reguler,0.44,1.0,Cloudy
+1,Lyft,Medium,0.44,1.0,Rain
+2,Uber,Medium,5.0,1.0,Cloudy
